@@ -2,14 +2,17 @@ package exerciciosMod008;
 
 public class WhileDoWhile {
 	public static void main(String[] args) {
-
-/*	int numero = 0;
+/* VERIFICA DEPOIS EXECUTA*/
+	int numero = 0;
 
 		while (numero <= 10) {
 			System.out.println("A contagem ficou assim :" + numero);
 			numero++;
-		} */
-
+		} 
+		
+/*************************************************************************************/
+	
+		
 		int numero2 = 0;
 
 		do { /*EXECUTA DEPOIS VERIFICA*/

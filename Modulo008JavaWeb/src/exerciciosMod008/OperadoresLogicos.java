@@ -19,7 +19,7 @@ public class OperadoresLogicos {
 			System.out.println("Uma pena, não encontramos o aluno, tente verificar se está com o Nome correto");
 		}
 		
-		/*OPERADORES TERNARIOS São para micro validações*/
+		/*OPERADORES TERNARIOS SÃO PARA MICRO VALIDAÇÕES*/
 		
 		String SaidaResultado;
 		SaidaResultado = N3 >= 70 ? "Aluno aprovado" : "Aluno reprovado";
